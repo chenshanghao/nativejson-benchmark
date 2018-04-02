@@ -20,7 +20,7 @@ This benchmark may be useful for optimizing existing libraries and developing ne
 
 The original author (Milo Yip) of this benchmark is also the primary author of [RapidJSON](https://github.com/miloyip/rapidjson).
 
-Although the development of benchmark is attempted to be as objective and fair as possible, every benchmarks have their drawbacks, and are limited to particular testing procedures, datasets and platforms. And also, this benchmark does not compare additional features that a library may support, or the user-friendliness of APIs, securities, cross-platform, etc. The author encourage users to benchmarks with their own data sets and platforms.
+The development of benchmark attempts to be as objective and fair as possible, however, each benchmark has its own drawbacks. For example, it is limited to particular testing procedures, datasets, and platforms.  The benchmark does not compare features which are supported by a library or have user-friendliness API, securities, cross-platform. Therefore, the author encourages users to benchmark with their own datasets and platforms. 
 
 ## Benchmarks and Measurements
 
